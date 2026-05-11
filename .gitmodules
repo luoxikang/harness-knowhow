@@ -1,0 +1,4 @@
+[submodule "Harness"]
+	path = Harness
+	url = https://github.com/luoxikang/harness-knowhow.git
+	branch = develop
